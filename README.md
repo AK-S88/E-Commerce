@@ -105,3 +105,5 @@ This project walks through the full customer analytics lifecycle using real-worl
 - Segment by product category before offering promos
 - Improve onboarding for cohorts with early drop-off
 - Use cohort analysis monthly to monitor retention strategies
+
+** ChatGPT was used to summarize the whole project
