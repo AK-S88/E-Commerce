@@ -1,6 +1,8 @@
 
 # 🛍️ E-Commerce User Behavior & Retention Analysis
 
+** https://public.tableau.com/app/profile/abhishek.singh88/viz/Ecommerce_17453510821150/Dashboard1 **
+
 This project analyzes customer behavior from an e-commerce store using techniques like A/B testing, segmentation, and cohort analysis. It aims to uncover insights to improve user retention, monetization, and business performance.
 
 ## 📁 1. Introduction
